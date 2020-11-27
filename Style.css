@@ -1,0 +1,6 @@
+Style {
+    display:flex;
+    flex-wrap: wrap;
+    height: 1080px;
+    width: 720;
+}
